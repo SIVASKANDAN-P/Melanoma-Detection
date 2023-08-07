@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* [Problem statement](#Problem statement)
+* [Problem statement](#Problem-statement)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
