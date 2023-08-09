@@ -29,7 +29,7 @@ The data set contains the following diseases:
 ## Conclusions
 - After adding batch normalization and resampling using augumentor library has improved the model accuracy to great extent. By doing some experiment i could by increasing dropout value the model vaidation performance was stable it could be due the model starts to overfit due to more epoch and the addition of dropouts reduced the overfitting.
 
-The class rebalance also improved the model performance greatly.
+  The class rebalance also improved the model performance greatly.
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
